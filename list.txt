@@ -1,10 +1,43 @@
-# software mirrors that tack on installers that include PUPs
+# software mirrors that tack on installers that include PUPs or etc
+*://*.apkcombo.com/*
+*://*.apponic.com/*
+*://*.appcracy.com/*
+*://*.browserstack.com/*
+*://*.ccm.net/*
+*://*.clubic.com/*
+*://*.dianisa.com/*
+*://*.digitaltrends.com/*
 *://download.cnet.com/*
+*://*.downloadcrew.com/*
+*://*.filecr.com/*
+*://*.filecroco.com/*
+*://*.filehippo.com/*
+*://*.filehorse.com/*
+*://*.fileour.com/*
+*://*.firefox.cz/*
+*://*.freedownloadmanager.org/*
+*://*.geekermag.com/*
+*://*.itechtics.com/*
+*://*.lo4d.com/*
+*://*.macupdate.com/*
+*://*.malavida.com/*
+*://*.moosoft.com/*
+*://*.mozilla-firefox.com.au/*
+*://*.neowin.net/*
+*://*.nesabamedia.com/*
+*://*.qpdownload.com/*
+*://*.softmany.com/*
 *://*.softonic.com/*
+*://*.softonic-id.com/*
 *://*.softpedia.com/*
+*://*.techviral.net/*
+*://*.uptodown.com/*
 
 # general badware
 *://*.file.info/* # seems to exist to funnel people towards a PC scan tool
+*://*.minitool.com/*
+*://*.rizonesoft.com/*
+*://*.securityxploded.com/*
 *://*.solvusoft.com/*
 
 # sites that offer downloads for lone DLLs and other system components
