@@ -14,7 +14,6 @@
 *://download.cnet.com/*
 *://*.downloadcrew.com/*
 *://*.downloadly.ir/*
-*://*.downloadly.ir/*
 *://*.filecr.com/*
 *://*.filecroco.com/*
 *://*.filehippo.com/*
@@ -25,9 +24,7 @@
 *://*.freedownloadmanager.org/*
 *://*.geekermag.com/*
 *://*.hamyarkhas.ir/*
-*://*.hamyarkhas.ir/*
 *://*.itechtics.com/*
-*://*.jalantikus.com/*
 *://*.jalantikus.com/*
 *://*.lo4d.com/*
 *://*.macupdate.com/*
