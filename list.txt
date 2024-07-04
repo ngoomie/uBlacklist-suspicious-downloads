@@ -1,0 +1,38 @@
+# software mirrors that tack on installers that include PUPs
+*://download.cnet.com/*
+*://*.softonic.com/*
+*://*.softpedia.com/*
+
+# general badware
+*://*.file.info/* # seems to exist to funnel people towards a PC scan tool
+*://*.solvusoft.com/*
+
+# sites that offer downloads for lone DLLs and other system components
+*://*.dllarchiver.com/*
+*://*.dllchecker.com/*
+*://*.dlldatabase.com/*
+*://*.dlldump.com/*
+*://*.dllfile.net/*
+*://*.dllkit.com/*
+*://*.download-dlll.blogspot.com/*
+*://*.dllme.com/*
+*://*.dllrock.com/*
+*://*.dllyes.com/*
+*://*.dll-box.com/*
+*://*.dll-files.com/*
+*://*.dll-hub.com/*
+*://*.dll-overhaul.com/*
+*://*.error-dll.info/*
+*://*.exefiles.com/*
+*://*.fix4dll.com/*
+*://*.originaldll.com/*
+*://*.wikidll.com/*
+*://*.windll.com/*
+*://*.zhaodll.com/*
+
+# StopModReposts-esque entries
+*://*.minecraftclue.com/*
+*://*.pokemoninfinitefusion.net/*
+*://*.pokemonromhacks.com/*
+
+# miscellany
