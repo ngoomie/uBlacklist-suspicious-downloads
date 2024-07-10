@@ -109,5 +109,11 @@
 *://*.pokemoninfinitefusion.net/*
 *://*.pokemonromhacks.com/*
 *://*.minecraftmods.com/*
+*://*.rombats.com/*
+
+# bad ROM/warez sites
+*://*.emulatorgames.net/*
+*://*.emugames.net/*
 
 # miscellany
+*://*.citra-emulator.com/* # weird one. masquerades as the citra emu website and provides 3DS ROM downloads
