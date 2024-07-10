@@ -72,6 +72,8 @@
 *://*.tribunnews.com/*
 *://*.apkmb.com/*
 *://*.apkmodget.com/*
+*://*.getmyos.com/*
+*://*.oceantogames.com/*
 
 # general badware
 *://*.file.info/* # seems to exist to funnel people towards a PC scan tool
