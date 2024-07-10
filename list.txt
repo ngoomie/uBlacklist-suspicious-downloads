@@ -62,6 +62,16 @@
 *://*.androeed.store/*
 *://*.modfyp.com/*
 *://*.apkmacy.com/*
+*://*.apkdone.com/*
+*://*.happymod.com/*
+*://*.5play.org/*
+*://*.androeed.store/*
+*://*.modfyp.com/*
+*://*.apkmacy.com/*
+*://*.apkdice.com/*
+*://*.tribunnews.com/*
+*://*.apkmb.com/*
+*://*.apkmodget.com/*
 
 # general badware
 *://*.file.info/* # seems to exist to funnel people towards a PC scan tool
