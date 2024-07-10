@@ -51,6 +51,17 @@
 *://*.updatestar.com/*
 *://*.uptodown.com/*
 *://*.winsite.com/*
+*://*.att.com.mx/*
+*://*.aiou.edu.pk/*
+*://*.webintoapp.com/*
+*://*.apkgk.com/*
+*://*.an1.com/*
+*://*.apkdone.com/*
+*://*.happymod.com/*
+*://*.5play.org/*
+*://*.androeed.store/*
+*://*.modfyp.com/*
+*://*.apkmacy.com/*
 
 # general badware
 *://*.file.info/* # seems to exist to funnel people towards a PC scan tool
@@ -60,6 +71,7 @@
 *://*.solvusoft.com/*
 
 # sites that offer downloads for lone DLLs and other system components
+## this doesn't include EVERY site that does this, only ones that look... off?
 *://*.dllarchiver.com/*
 *://*.dllchecker.com/*
 *://*.dlldatabase.com/*
@@ -86,5 +98,6 @@
 *://*.minecraftclue.com/*
 *://*.pokemoninfinitefusion.net/*
 *://*.pokemonromhacks.com/*
+*://*.minecraftmods.com/*
 
 # miscellany
