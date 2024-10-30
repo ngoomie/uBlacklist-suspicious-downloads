@@ -74,6 +74,12 @@
 *://*.apkmodget.com/*
 *://*.getmyos.com/*
 *://*.oceantogames.com/*
+*://*.apk1.com/*
+*://*.softportal.com/*
+*://*.chatgpt5free.com/*
+*://*.01net.com/*
+*://*.chatgpt-download.(com|info)/*
+*://*.chatgptdownload.org/*
 
 # general badware
 *://*.file.info/* # seems to exist to funnel people towards a PC scan tool
@@ -119,3 +125,5 @@
 
 # miscellany
 *://*.citra-emulator.com/* # weird one. masquerades as the citra emu website and provides 3DS ROM downloads
+*://*.download.it/* # fills up search results with pages that literally just mirror to official download sites? basically just spam
+*://*.chatgpt-download-official.com/* # same as above but for chatGPT specifically?
