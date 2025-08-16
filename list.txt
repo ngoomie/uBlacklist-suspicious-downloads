@@ -127,3 +127,4 @@
 *://*.citra-emulator.com/* # weird one. masquerades as the citra emu website and provides 3DS ROM downloads
 *://*.download.it/* # fills up search results with pages that literally just mirror to official download sites? basically just spam
 *://*.chatgpt-download-official.com/* # same as above but for chatGPT specifically?
+*://msanest.weebly.com/* # really weird one, i found an article beginning with a download button, containing COMPLETELY unrelated text, and with relevant images
