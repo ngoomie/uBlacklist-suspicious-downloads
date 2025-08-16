@@ -80,6 +80,9 @@
 *://*.01net.com/*
 *://*.chatgpt-download.(com|info)/*
 *://*.chatgptdownload.org/*
+*://*.gizmodo.com/download/*
+*://*.techspot.com/*
+*://*.ccm.net/*
 
 # general badware
 *://*.file.info/* # seems to exist to funnel people towards a PC scan tool
